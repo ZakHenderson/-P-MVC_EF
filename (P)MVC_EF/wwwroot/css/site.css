@@ -20,3 +20,15 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.student {
+margin-bottom: 20px;
+color: white;
+background-color: red;
+border-radius: 5px;
+height: 200px;
+}
+.student:hover{
+    transform: scale(1.5);
+    z-index: 5;
+}
